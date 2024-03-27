@@ -1,0 +1,1 @@
+# ed-laravel-pusher-private-channel
